@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-MyLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-h-375a8224a/)](https://www.linkedin.com/in/hussein-h-375a8224a/)
 
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVkNGFuanZvMW16d2h5NHd0dmlnbHRkN3c1NzIyb2pxa2tvc3FndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ANUHwkZstft0nLp6SK/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const Hussein = {
