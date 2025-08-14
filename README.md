@@ -48,7 +48,7 @@ const Hussein = {
   interests: [
     "Active division 1 WEBBA basketball player",
     "Assistant coach for the youth team "Sonics"",
-    "Exploring outdoors",
+    "Exploring the outdoors",
     "Networking"
   ],
   challenge: "Upskilling in my downtime in hopes to land an internship in the near future. Certifications include: CompTIA security + "
