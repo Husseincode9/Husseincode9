@@ -3,6 +3,7 @@
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/-MyLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-h-375a8224a/)](https://www.linkedin.com/in/hussein-h-375a8224a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=Husseinhassan899@gmail.com)](Husseinhassan899@gmail.com)
 
 
 A little more about me...  
