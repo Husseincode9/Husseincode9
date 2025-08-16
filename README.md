@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-MyLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-h-375a8224a/)](https://www.linkedin.com/in/hussein-h-375a8224a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=Husseinhassan899@gmail.com)](Husseinhassan899@gmail.com)
-
+[![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.uwe.ac.uk/h29-hassan)](https://gitlab.uwe.ac.uk/h29-hassan)
 
 A little more about me...  
 
@@ -52,7 +52,9 @@ const Hussein = {
     "Exploring the outdoors",
     "Networking"
   ],
-  challenge: "Upskilling in my downtime in hopes to land an internship in the near future. Certifications include: CompTIA security + "
+ current challenges: "Development of own website where i can host all of my projects"
+                     "Application to internships outside of where I live e.g new cites and countries"
+                     "Upskilling and working on obtaining my compTIA security + and ISC2"
 }
 
 ```
