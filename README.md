@@ -10,52 +10,49 @@ A little more about me...
 
 ```javascript
 const Hussein = {
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   field: ["Cyber Security", "Digital Forensics"],
   education: "BSc Cyber Security & Digital Forensics @ UWE Bristol",
   experience: [
     {
       role: "IT Technician",
-      organisation: "Cathedral Schools Trust",
+      org: "Cathedral Schools Trust",
       duration: "Jun 2023 – Jul 2024",
       highlights: [
-        "Managed and configured Active Directory & Group Policy",
-        "Deployed software via SCCM & Group Policy",
-        "Maintained Papercut Follow-Me printing, Paxton Access Control, Civica Catering, and IVMS CCTV systems",
-        "Advised on ICT budgets and procurement",
-        "Supported 400+ workstations and 1,200+ users"
+        "Managed AD & Group Policy",
+        "Deployed software via SCCM",
+        "Maintained Papercut, Paxton, Civica & CCTV systems",
+        "Advised on ICT budgets",
+        "Supported 400+ devices & 1,200+ users"
       ]
     },
     {
       role: "Technical Support Technician",
-      organisation: "Microsoft 365 Partner",
+      org: "Microsoft 365 Partner",
       duration: "Sep 2022 – May 2023",
       highlights: [
-        "Provided 1st/2nd line support for M365 Admin Centres (Exchange, Security & Compliance, Azure AD)",
-        "Resolved issues within strict SLAs",
-        "Used PowerShell and Mover.io for migrations"
+        "1st/2nd line M365 support (Exchange, Azure AD, Compliance)",
+        "Resolved tickets under SLA",
+        "Handled migrations via PowerShell & Mover.io"
       ]
     }
   ],
   tools: [
-    "Microsoft 365",
-    "Azure AD",
-    "Active Directory",
-    "PowerShell",
-    "SCCM",
-    "Windows Server",
-    "Linux"
+    "M365", "Azure AD", "AD", "PowerShell",
+    "SCCM", "Windows Server", "Linux"
   ],
   interests: [
-    "tryhackme and hack the box challenges",
-    "Penetration testing",
-    "Customising home networks to test security methods and monitor traffic",
-    "Active Division 1 basketball player in "Webba" and Assistant coach for the "Sonics" youth team"
+    "TryHackMe / HTB challenges",
+    "Pen testing & home lab projects",
+    "Basketball (Division 1 player, youth coach)"
   ],
- current challenges: "Development of own website where i can host all of my projects"
-                     "Application to internships outside of where I live e.g new cites and countries"
-                     "Upskilling and working on obtaining my compTIA security + and ISC2"
+  challenges: [
+    "Building a project portfolio website",
+    "Applying for internships abroad",
+    "Studying for CompTIA Sec+ & ISC2 certs"
+  ]
 }
+
 
 ```
 
