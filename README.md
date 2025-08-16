@@ -38,13 +38,7 @@ const Hussein = {
     }
   ],
   tools: [
-    "Microsoft 365", 
-    "Azure AD", 
-    "Active Directory", 
-    "PowerShell", 
-    "SCCM", 
-    "Windows Server", 
-    "Linux"
+    "Microsoft 365",  "Azure AD",  "Active Directory",  "PowerShell",  "SCCM",  "Windows Server", "Linux"
   ],
   interests: [
     "Active division 1 WEBBA basketball player",
