@@ -47,10 +47,10 @@ const Hussein = {
     "Linux"
   ],
   interests: [
-    "Active division 1 WEBBA basketball player",
-    "Assistant coach for the youth team "Sonics"",
-    "Exploring the outdoors",
-    "Networking"
+    "tryhackme and hack the box challenges",
+    "Penetration testing",
+    "Customising home networks to test protection methods and monitor traffic",
+    "Active Division 1 basketball player in "Webba" and Assistant coach for the "Sonics" youth team"
   ],
  current challenges: "Development of own website where i can host all of my projects"
                      "Application to internships outside of where I live e.g new cites and countries"
