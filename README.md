@@ -49,7 +49,7 @@ const Hussein = {
   interests: [
     "tryhackme and hack the box challenges",
     "Penetration testing",
-    "Customising home networks to test protection methods and monitor traffic",
+    "Customising home networks to test security methods and monitor traffic",
     "Active Division 1 basketball player in "Webba" and Assistant coach for the "Sonics" youth team"
   ],
  current challenges: "Development of own website where i can host all of my projects"
